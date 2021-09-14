@@ -49,7 +49,7 @@ In 2014, more than 300 million adults in Latin America, were overweight. Of thes
 ### Bagging
 ![](pic/pic20.png)
 
-## Implementing Machine Learning Pipeline
+## Building Machine Learning Pipeline
 
 ![](pic/pic21.png)
 
